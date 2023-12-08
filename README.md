@@ -1,2 +1,2 @@
 # copl-releases
-Copl releases are published at this repo
+This is the public repository publish copl binary releses.
